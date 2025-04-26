@@ -1,5 +1,5 @@
 {
-  "name": "OVL-MD",
+  "name": "OVL-RENDER",
   "version": "1.0.0",
   "description": "Bot WhatsApp développé par Ainz",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "stop": "pm2 stop all",
     "Ovl": "pm2 start index.js --attach --name ovl"
     },
-  "keywords": ["Ainz", "Ovl-Md", "Baileys"],
+  "keywords": ["Ainz", "OvlR", "Baileys"],
   "author": "Ainz",
   "license": "MIT",
   "dependencies": {
